@@ -18,7 +18,7 @@ The *smth* Expense Tracker is a modern, cross-platform mobile application develo
 3. Show respective month above the entries for entries on a particular month
 
 ### Known Issues:
-1. No database / Data storage : As of now, the added expenses gets deleted once the app is closed. This is due to the lack of implementation of proper data storing method, such as creating a database. This project focused at getting familiar with Flutter Framework, hence this is not implemeted yet.
+1. No database / Data storage : As of now, the added expenses gets deleted once the app is closed. This is due to the lack of implementation of proper data storing method, such as creating a database. This project focused at getting familiar with Flutter Framework, hence this is not implemented yet.
 
 ### Documentation:
 The blog on workings and logic of the app is on : _coming soon_
