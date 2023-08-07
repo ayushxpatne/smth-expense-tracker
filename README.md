@@ -21,4 +21,4 @@ The *smth* Expense Tracker is a modern, cross-platform mobile application develo
 1. No database / Data storage : As of now, the added expenses gets deleted once the app is closed. This is due to the lack of implementation of proper data storing method, such as creating a database. This project focused at getting familiar with Flutter Framework, hence this is not implemented yet.
 
 ### Documentation:
-The blog on workings and logic of the app is on : [_Notion Blog](https://ayushxpatne.notion.site/smth-an-expense-tracker-app-799a25f6e5534f7eb7ccb86902085b16?pvs=4)
+The blog on workings and logic of the app is on : [Notion Blog](https://ayushxpatne.notion.site/smth-an-expense-tracker-app-799a25f6e5534f7eb7ccb86902085b16?pvs=4)
